@@ -6,6 +6,7 @@
 
 * UI / UX that actually works
 * Auto-scaling based on `ScheduledJobsCount` and `UnfinishedJobs == 0`.
+* easily configurable webhook integration with GitHub
 
 ## References
 
