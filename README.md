@@ -22,6 +22,10 @@
 * how does it function under load, esp. w/ inter-container parallelization?
 * how to configure image and hardware (e.g. packer, terraform bosh, etc.)
 
+* UI / UX that actually works
+* Auto-scaling based on `ScheduledJobsCount` and `UnfinishedJobs == 0`.
+* easily configurable webhook integration with GitHub
+
 ## References
 
 * [Getting Started Guide](https://buildkite.com/docs/guides/getting-started)
