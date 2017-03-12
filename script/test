@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
 function run () {
-    echo "#! running: ${1}" && $1
+  echo "#! running: ${1}" && $1
 }
 
-run 'gem install rspec'
 run 'rspec -p 3'
