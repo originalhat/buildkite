@@ -26,6 +26,10 @@
 * Auto-scaling based on `ScheduledJobsCount` and `UnfinishedJobs == 0`.
 * easily configurable webhook integration with GitHub
 
+* UI / UX that actually works
+* Auto-scaling based on `ScheduledJobsCount` and `UnfinishedJobs == 0`.
+* easily configurable webhook integration with GitHub
+
 ## References
 
 * [Getting Started Guide](https://buildkite.com/docs/guides/getting-started)
